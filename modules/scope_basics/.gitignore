@@ -1,0 +1,8 @@
+
+# build outputs
+app
+a.out
+*.exe
+*.o
+*.obj
+.codex
