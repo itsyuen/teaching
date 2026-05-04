@@ -427,3 +427,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# MATLAB
+*.asv
+*.autosave
+*.slxc
+slprj/
+*.mex*
