@@ -1,5 +1,5 @@
 # teaching
-a general repo to store teaching docuemnts: including class notes, programs and scripts of all kind. Readme.md
+a general repo to store teaching docuemnts: including class notes, programs and scripts of all kind using Readme.md
 
 Teaching materials, reusable modules, and course architectures by Peter Chang.
 
